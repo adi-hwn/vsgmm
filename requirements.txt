@@ -1,1 +1,3 @@
 json
+matplotlib
+python3-tk
