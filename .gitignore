@@ -1,3 +1,5 @@
 sensitive/
 env/
 data/json/
+*.pkl
+models/

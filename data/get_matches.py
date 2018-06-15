@@ -1,9 +1,12 @@
-import dota2api, json, time, os
+import dota2api, json, time
 
-target_id = 20 # Vengeful Spirit
+#target_id = 20 # Vengeful Spirit
+#target_id = 46 # Templar Assassin
+target_id = 9 # Mirana
 target_mode = 22 # AP
 target_lobby = 7 # Ranked
 outfile_prefix = "sample_match_"
+outfile_dir = "json/mn"
 
 batch_interval = 6.0
 run_interval = 75.0
@@ -13,8 +16,10 @@ num_passes_per_batch = 6
 api = dota2api.Initialise(open("../sensitive/steamAPIKey").read().strip())
 runno = 1
 
-last_batch_id = int(os.environ["LBID"])
-print(last_batch_id)
+lbFile = open("lbid.txt", "r")
+last_batch_id = int(lbFile.read())
+lbFile.close()
+
 total_parsed = 0
 passes_left = num_passes_per_batch
 recorded_matches = {last_batch_id: True} # Ensure no duplicates
@@ -52,7 +57,7 @@ while True:
                         found_target = True
                 if found_target and not has_leaver:
                     total_parsed += 1
-                    json.dump(match_details, open("json/" + outfile_prefix + str(mid), "w+"), indent=0)
+                    json.dump(match_details, open(outfile_dir + "/" + outfile_prefix + str(mid), "w+"), indent=0)
                     print("Recorded match", mid)
 
         time.sleep(batch_interval)
@@ -63,8 +68,10 @@ while True:
         recorded_matches = {last_batch_id: True}
         passes_left = num_passes_per_batch
 
-    os.environ["LBID"] = str(max(recorded_matches.keys()))
-    print(os.environ["LBID"])
+
+    lbFile = open("lbid.txt", "w")
+    lbFile.write(str(max(recorded_matches.keys())))
+    lbFile.close()
 
     print("run",runno,"completed, last_batch_id:", last_batch_id)
     runno += 1

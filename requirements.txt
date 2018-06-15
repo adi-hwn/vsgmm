@@ -1,3 +1,5 @@
-json
+numpy
 matplotlib
 python3-tk
+sklearn
+scipy
