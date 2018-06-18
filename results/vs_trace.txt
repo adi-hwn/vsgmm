@@ -1,0 +1,146 @@
+7557 samples, Overall winrate: 54.7042%
+Most built items (Overall):
+Town Portal Scroll       : buildrate 57.5625%, winrate 53.9770%
+Magic Wand               : buildrate 44.4224%, winrate 55.0194%
+Power Treads             : buildrate 44.1048%, winrate 53.1653%
+Force Staff              : buildrate 24.1233%, winrate 59.6270%
+Tranquil Boots           : buildrate 21.1857%, winrate 55.1530%
+Solar Crest              : buildrate 20.6034%, winrate 64.6114%
+Shadow Blade             : buildrate 20.4976%, winrate 52.0336%
+Dust of Appearance       : buildrate 19.7036%, winrate 49.2277%
+Ring of Aquila           : buildrate 19.2007%, winrate 53.8249%
+Aether Lens              : buildrate 17.0173%, winrate 61.5863%
+Hurricane Pike           : buildrate 15.7999%, winrate 60.9715%
+Desolator                : buildrate 14.5031%, winrate 61.8613%
+Arcane Boots             : buildrate 14.2649%, winrate 58.0705%
+Medallion of Courage     : buildrate 13.4710%, winrate 45.6778%
+Observer and Sentry Wards: buildrate 12.5314%, winrate 47.2017%
+Observer Ward            : buildrate 10.4671%, winrate 46.0177%
+Glimmer Cape             : buildrate 8.6939%, winrate 58.5997%
+Dragon Lance             : buildrate 8.4690%, winrate 52.5000%
+Phase Boots              : buildrate 8.1911%, winrate 53.4733%
+Mask of Madness          : buildrate 7.7279%, winrate 56.1644%
+Urn of Shadows           : buildrate 7.0928%, winrate 53.9179%
+Sentry Ward              : buildrate 6.9737%, winrate 39.6584%
+Sange and Yasha          : buildrate 6.8678%, winrate 61.6570%
+Smoke of Deceit          : buildrate 6.5370%, winrate 54.0486%
+Boots of Speed           : buildrate 6.3650%, winrate 44.9064%
+Black King Bar           : buildrate 5.9944%, winrate 58.0574%
+Silver Edge              : buildrate 5.9680%, winrate 63.6364%
+Orb of Venom             : buildrate 5.7430%, winrate 53.2258%
+Wind Lace                : buildrate 5.6372%, winrate 49.7653%
+Blight Stone             : buildrate 5.1872%, winrate 39.2857%
+Wraith Band              : buildrate 4.7241%, winrate 44.8179%
+Boots of Travel          : buildrate 4.6315%, winrate 73.4286%
+Spirit Vessel            : buildrate 4.6182%, winrate 69.6275%
+Maelstrom                : buildrate 4.4594%, winrate 46.8843%
+Drum of Endurance        : buildrate 4.3139%, winrate 60.7362%
+Aghanim's Scepter        : buildrate 4.1551%, winrate 67.8344%
+Ghost Scepter            : buildrate 3.9434%, winrate 58.7248%
+Magic Stick              : buildrate 3.8507%, winrate 48.4536%
+Clarity                  : buildrate 3.6390%, winrate 49.8182%
+Blink Dagger             : buildrate 3.4538%, winrate 68.5824%
+
+
+Cluster 0 6551/7557 samples (86.6878%)
+Winrate: 54.1139%
+Metric stats (mean, stdev):
+hero_damage :( 16125.577931445578 , 6081.809534705353 )
+gold_per_min :( 396.2189177572774 , 89.47825581952586 )
+last_hits :( 133.6158314306418 , 59.98771893230367 )
+xp_per_min :( 492.71088399939674 , 113.17179552174585 )
+
+Most popular items:
+Town Portal Scroll       : buildrate 59.6092%, winrate 53.7004%
+Magic Wand               : buildrate 47.8095%, winrate 54.5338%
+Power Treads             : buildrate 42.1157%, winrate 52.6278%
+Force Staff              : buildrate 26.4540%, winrate 59.3768%
+Tranquil Boots           : buildrate 22.8515%, winrate 54.1750%
+Solar Crest              : buildrate 21.3403%, winrate 64.7353%
+Dust of Appearance       : buildrate 20.6839%, winrate 48.4133%
+Shadow Blade             : buildrate 19.2032%, winrate 52.8617%
+Ring of Aquila           : buildrate 18.6842%, winrate 52.6144%
+Aether Lens              : buildrate 17.9820%, winrate 61.0357%
+Arcane Boots             : buildrate 15.8754%, winrate 57.6923%
+Medallion of Courage     : buildrate 14.9138%, winrate 45.6499%
+Observer and Sentry Wards: buildrate 13.7384%, winrate 46.4444%
+Hurricane Pike           : buildrate 12.1356%, winrate 62.1384%
+Desolator                : buildrate 11.8913%, winrate 62.2593%
+Observer Ward            : buildrate 11.1128%, winrate 45.6044%
+Glimmer Cape             : buildrate 9.5253%, winrate 58.6538%
+Dragon Lance             : buildrate 7.9072%, winrate 52.1236%
+Phase Boots              : buildrate 7.8767%, winrate 53.6822%
+Urn of Shadows           : buildrate 7.8156%, winrate 53.1250%
+Sentry Ward              : buildrate 7.5408%, winrate 40.0810%
+Boots of Speed           : buildrate 7.1134%, winrate 44.6352%
+Smoke of Deceit          : buildrate 7.0829%, winrate 53.8793%
+Orb of Venom             : buildrate 6.3807%, winrate 52.8708%
+Mask of Madness          : buildrate 6.2586%, winrate 55.6098%
+Wind Lace                : buildrate 6.2128%, winrate 50.1229%
+Blight Stone             : buildrate 5.7091%, winrate 39.0374%
+Wraith Band              : buildrate 5.0985%, winrate 44.9102%
+Sange and Yasha          : buildrate 4.9153%, winrate 64.9068%
+Spirit Vessel            : buildrate 4.6863%, winrate 69.7068%
+Drum of Endurance        : buildrate 4.5642%, winrate 59.8662%
+Magic Stick              : buildrate 4.2742%, winrate 48.5714%
+Ghost Scepter            : buildrate 4.1215%, winrate 58.8889%
+Maelstrom                : buildrate 3.9383%, winrate 50.0000%
+Clarity                  : buildrate 3.8773%, winrate 48.0315%
+Aghanim's Scepter        : buildrate 3.6941%, winrate 71.9008%
+Blink Dagger             : buildrate 3.3888%, winrate 69.3694%
+Ogre Axe                 : buildrate 3.2819%, winrate 46.5116%
+Black King Bar           : buildrate 3.1751%, winrate 60.5769%
+Staff of Wizardry        : buildrate 3.0377%, winrate 33.1658%
+
+
+Cluster 1 1006/7557 samples (13.3122%)
+Winrate: 58.5487%
+Metric stats (mean, stdev):
+hero_damage :( 30693.55886985752 , 12623.355451820644 )
+gold_per_min :( 507.25556771593716 , 85.95491009743152 )
+last_hits :( 259.69087111284915 , 100.55591014384842 )
+xp_per_min :( 611.7154028694896 , 87.40506998953569 )
+
+Most popular items:
+Power Treads             : buildrate 57.0577%, winrate 55.7491%
+Town Portal Scroll       : buildrate 44.2346%, winrate 56.4045%
+Hurricane Pike           : buildrate 39.6620%, winrate 58.6466%
+Desolator                : buildrate 31.5109%, winrate 60.8833%
+Shadow Blade             : buildrate 28.9264%, winrate 48.4536%
+Silver Edge              : buildrate 25.7455%, winrate 62.5483%
+Black King Bar           : buildrate 24.3539%, winrate 55.9184%
+Ring of Aquila           : buildrate 22.5646%, winrate 60.3524%
+Magic Wand               : buildrate 22.3658%, winrate 61.7778%
+Sange and Yasha          : buildrate 19.5825%, winrate 56.3452%
+Mask of Madness          : buildrate 17.2962%, winrate 57.4713%
+Solar Crest              : buildrate 15.8052%, winrate 63.5220%
+Boots of Travel          : buildrate 15.6064%, winrate 64.9682%
+Butterfly                : buildrate 13.4195%, winrate 70.3704%
+Dust of Appearance       : buildrate 13.3201%, winrate 57.4627%
+Dragon Lance             : buildrate 12.1272%, winrate 54.0984%
+Aether Lens              : buildrate 10.7356%, winrate 67.5926%
+Tranquil Boots           : buildrate 10.3380%, winrate 69.2308%
+Phase Boots              : buildrate 10.2386%, winrate 52.4272%
+Daedalus                 : buildrate 8.9463%, winrate 66.6667%
+Force Staff              : buildrate 8.9463%, winrate 64.4444%
+Maelstrom                : buildrate 7.8529%, winrate 36.7089%
+Monkey King Bar          : buildrate 7.5547%, winrate 61.8421%
+Manta Style              : buildrate 7.3559%, winrate 62.1622%
+Aghanim's Scepter        : buildrate 7.1571%, winrate 54.1667%
+Linken's Sphere          : buildrate 6.5606%, winrate 62.1212%
+Mjollnir                 : buildrate 6.4612%, winrate 46.1538%
+Observer Ward            : buildrate 6.2624%, winrate 50.7937%
+Satanic                  : buildrate 6.0636%, winrate 63.9344%
+Morbid Mask              : buildrate 5.8648%, winrate 62.7119%
+Crystalys                : buildrate 4.7714%, winrate 64.5833%
+Observer and Sentry Wards: buildrate 4.6720%, winrate 61.7021%
+Spirit Vessel            : buildrate 4.1750%, winrate 69.0476%
+Gem of True Sight        : buildrate 4.0755%, winrate 80.4878%
+Medallion of Courage     : buildrate 4.0755%, winrate 46.3415%
+Yasha                    : buildrate 3.9761%, winrate 57.5000%
+Blink Dagger             : buildrate 3.8767%, winrate 64.1026%
+Arcane Boots             : buildrate 3.7773%, winrate 68.4211%
+Sentry Ward              : buildrate 3.2803%, winrate 33.3333%
+Glimmer Cape             : buildrate 3.2803%, winrate 57.5758%
+
+
